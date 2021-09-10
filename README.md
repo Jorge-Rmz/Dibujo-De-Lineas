@@ -9,6 +9,9 @@ Dibujo de lineas en toda la pantalla con GLU
 
 ![image](https://user-images.githubusercontent.com/71052252/132779194-7c9cf62b-d35f-4e0c-934f-8421a51e9fd2.png)
 
+####En la función display se dibujan las líneas, con el For se dibujan las líneas en toda la pantalla.
+
+![image](https://user-images.githubusercontent.com/71052252/132781335-fbe707cd-1c1a-4c3a-a474-73883cf1fcb8.png)
 
 
 
