@@ -16,3 +16,5 @@ Dibujo de lineas en toda la pantalla con GLU
 ####  Método para especificar los parámetros de la proyección 
 ![image](https://user-images.githubusercontent.com/71052252/132781554-eec1716f-2da0-475d-b028-31393fc08077.png)
 
+#### Ejecución del programa.
+![image](https://user-images.githubusercontent.com/71052252/132781701-d76389dd-b284-4a9b-b0af-96e2d1704543.png)
